@@ -1,5 +1,6 @@
 import LeJOSSandBox.*;
 
+//Second commit
 public class LeJOSVisionSensor {
 	public static void main(String[] args) {
 		EV3LargeRegulatedMotor objMotorA = new EV3LargeRegulatedMotor(MotorPort.A);
